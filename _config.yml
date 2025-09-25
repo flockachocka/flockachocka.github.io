@@ -1,0 +1,6 @@
+# Sets the theme for your site
+theme: jekyll-theme-minimal
+
+# Sets the title and description that appear in the browser tab
+title: My Clerkship Competition
+description: Tracking our wins during a very long year.
