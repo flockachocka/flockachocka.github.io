@@ -18,7 +18,7 @@ title: Home
   .slide-image {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Ensures image covers the container */
+    object-fit: contain; /* Ensures image covers the container */
     display: none; /* Hide all images by default */
     position: absolute;
   }
