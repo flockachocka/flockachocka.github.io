@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Menty-B Compy-T
+title: Menty-B Compy-Tea
 ---
 
 
