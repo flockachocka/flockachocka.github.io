@@ -50,14 +50,26 @@ src="https://res.cloudinary.com/davtpvjyg/image/upload/v1758850153/cry1_-_Alexus
 
 
 
-# Clerkship Competition Central 🩺
+# 😭 Clerkship Competition Central 🩺
 
-Welcome! Check out the current leaderboard below and submit your latest triumph.
+Welcome weary travelers! 
+Need some support via seeing how down bad other fellow students are? You've come to the right place
+Check out the photo reel for photographic evidence you are not, in fact, alone
+Take a peak at the leaderboard to see if you are a record holder for cry seshes
+Submit your menty b's through the google form and watch the leaderboard update
 
 <br>
 
-## Submit an Entry
+## Share your trauma with the group 
 Use the button below to open the submission form in a new tab.
+If you want some anonymity, use a fake name to submit. Just like fun ones from Kahoot, here are some exapmles:
+⚪ Hilly Billy 💵
+⚪ Hungry Duck 🪿
+⚪ Katy Purry 😿
+⚪ Prison Mike 📄
+⚪ Teary Tiger 🐅
+
+Photo uploads are optional but ABSOLUTELY NO PMI
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScN6eT9mCpagMOiwQuonHrxLPT4mVVbQxtFyLA3sSGvjUEo7Q/viewform?usp=dialog" class="button" target="_blank" rel="noopener noreferrer">
   Open Submission Form
