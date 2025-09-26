@@ -1,6 +1,8 @@
 # Sets the theme for your site
-theme: jekyll-theme-minimal
+# Cayman theme settings
+theme: jekyll-theme-cayman
+show_downloads: false # This hides the default GitHub button
 
 # Sets the title and description that appear in the browser tab
-title: My Clerkship Competition
-description: Tracking our wins during a very long year.
+title: MentyB Clerkship Competition
+description: Put your tears toward earning you points and share your trauma with the class
