@@ -62,12 +62,14 @@ Need some support via seeing how down bad other fellow students are? You've come
 
 📨 Submit your menty b's through the google form and watch the leaderboard update
 
+😤 Type away your frustrations in the vent sesh and send them off the the abyss (aka your friends via a google forms), much like the tried-and-true psychiatric therapy developed by middle school girls of writing an angry letter to your nemesis and then setting it on fire 
+
 <br>
 
 ## Share your trauma with the group 
 Use the button below to open the submission form in a new tab.
 
-If you want some anonymity, use a fake name to submit. Just like fun ones from Kahoot, here are some exapmles:
+If you want some anonymity, use a fake name to submit. Just like fun ones from Kahoot, here are some examples:
 
 ⚪ Hilly Billy 💵
 
@@ -79,7 +81,9 @@ If you want some anonymity, use a fake name to submit. Just like fun ones from K
 
 ⚪ Teary Tiger 🐅
 
-Photo uploads are optional but ABSOLUTELY NO PMI
+Photo uploads and vent sessions are optional but ABSOLUTELY no PHI, be sure to exclude any patient areas or information 
+
+Submitting a photo won't identify your nickname if you want to stay anonymous! 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScN6eT9mCpagMOiwQuonHrxLPT4mVVbQxtFyLA3sSGvjUEo7Q/viewform?usp=dialog" class="button" target="_blank" rel="noopener noreferrer">
   Open Submission Form
