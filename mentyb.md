@@ -56,11 +56,11 @@ Welcome weary travelers!
 
 Need some support via seeing how down bad other fellow students are? You've come to the right place
 
-Check out the photo reel for photographic evidence you are not, in fact, alone
+👀 Check out the photo reel for photographic evidence you are not, in fact, alone
 
-Take a peak at the leaderboard to see if you are a record holder for cry seshes
+📈 Take a peak at the leaderboard to see if you are a record holder for cry seshes
 
-Submit your menty b's through the google form and watch the leaderboard update
+📨 Submit your menty b's through the google form and watch the leaderboard update
 
 <br>
 
@@ -75,7 +75,7 @@ If you want some anonymity, use a fake name to submit. Just like fun ones from K
 
 ⚪ Katy Purry 😿
 
-⚪ Prison Mike 📄
+⚪ Prison Mike 📎
 
 ⚪ Teary Tiger 🐅
 
