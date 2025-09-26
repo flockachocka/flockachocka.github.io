@@ -70,4 +70,4 @@ Use the button below to open the submission form in a new tab.
 ## Live Leaderboard
 The leaderboard updates automatically as new entries are submitted.
 
-<iframe srchttps://docs.google.com/spreadsheets/d/1IqbruTQqIsP7_g8dXXSFmJTxSl_3kKARwapnPzySzsE/edit?usp=sharing="" width="100%" height="600"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1IqbruTQqIsP7_g8dXXSFmJTxSl_3kKARwapnPzySzsE/edit?usp=sharing=" width="100%" height="600"></iframe>
