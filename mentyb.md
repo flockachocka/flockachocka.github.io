@@ -52,7 +52,7 @@ src="https://res.cloudinary.com/davtpvjyg/image/upload/v1758850153/cry1_-_Alexus
 
 # 😭 Clerkship Competition Central 🩺
 
-Welcome weary travelers! 
+Welcome to the Mental Breackdown Compi-tea-tion! Earn points and spill the tea 
 
 Need some support via seeing how down bad other fellow students are? You've come to the right place
 
